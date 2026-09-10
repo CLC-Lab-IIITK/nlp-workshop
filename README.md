@@ -26,9 +26,8 @@ workshop designed for MSc Statistics students.
 | 01 | Tokenization and Text Processing | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CLC-Lab-IIITK/nlp-workshop/blob/main/notebooks/1.Basics_of_Text_Processing.ipynb) |
 | 02 | Word Embeddings | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CLC-Lab-IIITK/nlp-workshop/blob/main/notebooks/2.%20Word_Embedding_Demo.ipynb) |
 | 03 | N-gram Language Models | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CLC-Lab-IIITK/nlp-workshop/blob/main/notebooks/3.%20ngram_language_model.ipynb) |
-| 04 | Text Classification | [![Open in Colab](https://colab.research.google.com/github/CLC-Lab-IIITK/nlp-workshop/blob/main/notebooks/4.%20LSTM_Text_classification.ipynb) |
-| 05 | Transformers | [![Open in Colab](https://colab.research.google.com/github/CLC-Lab-IIITK/nlp-workshop/blob/main/notebooks/6.%20Transformers%2C_what_can_they_do_.ipynb) |
-
+| 04 | Text Classification | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CLC-Lab-IIITK/nlp-workshop/blob/main/notebooks/4.%20LSTM_Text_classification.ipynb) |
+| 05 | Transformers | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CLC-Lab-IIITK/nlp-workshop/blob/main/notebooks/6.%20Transformers%2C_what_can_they_do_.ipynb) |
 # Getting Started
 
 The notebooks are designed to run in Google Colab.
