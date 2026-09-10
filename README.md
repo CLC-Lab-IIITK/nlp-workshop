@@ -21,19 +21,20 @@ workshop designed for MSc Statistics students.
 
 ## Notebooks
 
-| Module | Topic |
-|---|---|
-| 01 | Tokenization and Text Processing | |
-| 02 | Word Embeddings |
-| 03 | N-gram Language Models |
-| 04 | Sentiment Analysis |
-| 05 | Transformers |
+## Workshop Modules
 
+| Module | Topic | Colab |
+|---|---|---|
+| 01 | Tokenization and Text Processing | [Open in Colab](https://colab.research.google.com/github/CLC-Lab-IIITK/nlp-workshop/blob/main/notebooks/01_Tokenization_and_Text_Processing.ipynb) |
+| 02 | Word Embeddings | [Open in Colab](https://colab.research.google.com/github/CLC-Lab-IIITK/nlp-workshop/blob/main/notebooks/02_Word_Embeddings.ipynb) |
+| 03 | N-gram Language Models | [Open in Colab](https://colab.research.google.com/github/CLC-Lab-IIITK/nlp-workshop/blob/main/notebooks/03_Ngram_Language_Model.ipynb) |
+| 04 | Text Classification and Sentiment Analysis | [Open in Colab](https://colab.research.google.com/github/CLC-Lab-IIITK/nlp-workshop/blob/main/notebooks/04_Text_Classification.ipynb) |
+| 05 | Transformers | [Open in Colab](https://colab.research.google.com/github/CLC-Lab-IIITK/nlp-workshop/blob/main/notebooks/05_Transformers.ipynb) |
 ## Getting Started
 
 The notebooks are designed to run in Google Colab.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CLC-Lab-IIITK/nlp-workshop/blob/main/notebooks/1.Basics_of_Text_Processing.ipynb) 
+
 Open the required notebook and select **Open in Colab**.
 
 ## About CLC Lab
