@@ -23,7 +23,7 @@ workshop designed for MSc Statistics students.
 
 | Module | Topic |
 |---|---|
-| 01 | Tokenization and Text Processing | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CLC-Lab-IIITK/nlp-workshop/blob/main/notebooks/1.Basics_of_Text_Processing.ipynb) |
+| 01 | Tokenization and Text Processing | |
 | 02 | Word Embeddings |
 | 03 | N-gram Language Models |
 | 04 | Sentiment Analysis |
@@ -33,6 +33,7 @@ workshop designed for MSc Statistics students.
 
 The notebooks are designed to run in Google Colab.
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CLC-Lab-IIITK/nlp-workshop/blob/main/notebooks/1.Basics_of_Text_Processing.ipynb) 
 Open the required notebook and select **Open in Colab**.
 
 ## About CLC Lab
