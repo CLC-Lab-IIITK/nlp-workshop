@@ -16,7 +16,7 @@ workshop designed for MSc Statistics students.
 2. Tokenization and Text Processing
 3. Word Embeddings
 4. N-gram Language Models
-5. Text Classification and Sentiment Analysis
+5. Text Classification and Sentiment Analysis (dataset from https://zenodo.org/records/4015234)
 6. Transformers and LLM APIs
 
 ## Notebooks
@@ -34,6 +34,7 @@ The notebooks are designed to run in Google Colab.
 
 
 Open the required notebook and select **Open in Colab**.
+
 
 ## About CLC Lab
 
